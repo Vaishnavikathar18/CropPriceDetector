@@ -1,0 +1,2 @@
+# CropPriceDetector
+javafx project 
